@@ -11,4 +11,15 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="textNameDummy">Dery Zhovki</string>
+    <string name="location_1">Moscow, Russia \n Russia</string>
+    <string name="text_content_desc">image_view</string>
+    <string name="moscow_russia">Moscow, Russia</string>
+    <string name="russia">Russia</string>
+    <string name="jakarta_indonesia">Jakarta, Indonesia</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="new_city">New City</string>
+    <string name="setting">Setting</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="image_view">image_view</string>
+    <string name="mostly_sunny">Mostly Sunny</string>
 </resources>
